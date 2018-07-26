@@ -1,0 +1,1 @@
+A high performance tool for remove some word (that called stop words) from a string and detecting whether a word is StopWord or not.
